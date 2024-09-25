@@ -7,7 +7,7 @@
   <li>
   Chris K.<br>
   kearcec@gmail.com<br>
-  Front-End Dev
+  Front-End Web Dev
   </li>
 </ul>
 </h1>
